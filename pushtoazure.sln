@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pushtoazure", "pushtoazure\pushtoazure.csproj", "{A633C917-589C-4C09-BDBA-DE15E86463BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A633C917-589C-4C09-BDBA-DE15E86463BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A633C917-589C-4C09-BDBA-DE15E86463BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A633C917-589C-4C09-BDBA-DE15E86463BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A633C917-589C-4C09-BDBA-DE15E86463BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7DE530-9B0A-480B-8AD3-C567355404A5}
+	EndGlobalSection
+EndGlobal
