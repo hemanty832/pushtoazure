@@ -16,6 +16,7 @@ namespace pushtoazure.Controllers
         public IActionResult Index()
         {
             return View();
+            // comment from hemant
         }
 
         public IActionResult Privacy()
